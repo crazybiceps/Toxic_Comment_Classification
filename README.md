@@ -8,3 +8,5 @@ Data can be Downloaded from the above link
 The code is a mixture of ANN and TidyText Models, so as to get a flavor of both the CNN(which sees pattern in the text) and 
 word frequencies . 
 The final probability output is a weighted average of the above outputs
+
+Check it out
