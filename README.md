@@ -5,6 +5,9 @@ link : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge#de
 
 Data can be Downloaded from the above link 
 
-The code is a mixture of ANN and TidyText Models, so as to get a flavor of both the CNN(which sees pattern in the text) and 
+The code is a mixture of ANN and TidyText Models, so as to get a flavor of both the 1-D CNN(which sees pattern in the text) and 
 word frequencies . 
+
+The gloVe6B word Embedding are used with 100 dimensions.
+
 The final probability output is a weighted average of the above outputs
