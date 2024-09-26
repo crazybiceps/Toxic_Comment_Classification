@@ -11,3 +11,5 @@ word frequencies .
 The gloVe6B word Embedding are used with 100 dimensions.
 
 The final probability output is a weighted average of the above outputs
+
+Check it out
